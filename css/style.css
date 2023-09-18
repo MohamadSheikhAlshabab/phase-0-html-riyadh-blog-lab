@@ -21,28 +21,29 @@ body {
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  background-image: linear-gradient(269deg, #e253f7d9, #28047fd1)
 }
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  color: #aeceff;
 }
 
 h1 {
-  font-size: 3.5em;
+  font-size: 3em;
   margin-bottom: 0;
 }
 
 h2 {
-  font-size: 1.5em;
+  font-size: 2em;
   margin-top: .5em;
 }
 
 h3 {
   font-family: 'Gabriela', serif;
-  font-size: 1.5em;
+  font-size: 2em;
   margin-top: .5em;
+  color: #4c8fd7;
 }
 
 img {
@@ -52,11 +53,12 @@ img {
 }
 
 p {
-  font-size: 1em;
+  font-size: 1.5em;
+  color:#b2edff;
 }
 
 a {
-  color: black;
+  color: #6447d1;
   text-decoration: none;
 }
 
